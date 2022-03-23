@@ -1,0 +1,1 @@
+This repo is for practicing and understanding git
